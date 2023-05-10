@@ -1,0 +1,4 @@
+outs:
+- etag: 30735f03d21d3ec66774e8de18a7a69d
+  size: 460676
+  path: remote://datastore/model1/train.csv

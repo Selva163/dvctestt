@@ -1,0 +1,6 @@
+[cache]
+    s3 = cachestore
+['remote "datastore"']
+    url = s3://dvctrackml/datadir
+['remote "cachestore"']
+    url = s3://dvctrackml/dvccache

@@ -1,0 +1,4 @@
+outs:
+- etag: dcec4b79bf9c7317bd9e17789bf888f0
+  size: 451405
+  path: remote://datastore/model1/test.csv
