@@ -1,5 +1,7 @@
 [cache]
     s3 = cachestore
+[core]
+    autostage = true
 ['remote "datastore"']
     url = s3://dvctrackml/datadir
 ['remote "cachestore"']
